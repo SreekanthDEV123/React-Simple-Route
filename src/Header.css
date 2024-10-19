@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  height: 60px;
+  background: linear-gradient(to right, white, blue);
+}
+.navitems {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  padding: 10px 20px;
+}
+.logo {
+  position: absolute;
+  background: linear-gradient(to right, white, blue);
+  height: 60px;
+}
